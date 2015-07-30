@@ -1,0 +1,21 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml 13.0783333 54.2891667 -90 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 13.0811111 54.2875 -105 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 13.0813889 54.2863889 -90 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.ac 13.0869444 54.31 -388 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 13.0333333 54.3072222 -379 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac 13.0911111 54.3158333 -391 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac 13.1866667 54.265 -5 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac 13.2022222 54.2702778 -10 180
+
+OBJECT_STATIC ruegendamm.ac 13.12360383 54.31541843 -0.0060 41.8
+OBJECT_SHARED Models/Effects/strobe10000.xml 13.11441481 54.31075878 126.4431 0.0
+OBJECT_SHARED Models/Effects/strobe10000.xml 13.11467063 54.31059784 126.4430 0.0
+OBJECT_SHARED Models/Effects/RedLight10000.xml 13.11467322 54.31059414 126.4430 0.0
+OBJECT_SHARED Models/Effects/RedLight10000.xml 13.11441579 54.31075970 126.4430 0.0
+OBJECT_STATIC volkswerft_stralsund.ac 13.10992046 54.30284293 0.6538 172.0
+OBJECT_SHARED Models/Maritime/Civilian/container_carrier.ac 13.11286114 54.30119078 -0.0030 352.2
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml 13.11306302 54.30484501 -0.0016 0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml 13.11273468 54.30517232 -0.0014 0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml 13.11235916 54.30560419 -0.0008 0.0
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 13.11314709 54.30282926 -0.0015 352.0
+OBJECT_SHARED Models/Maritime/Civilian/Tanker.ac 13.10946707 54.30027736 10.1370 172.0
